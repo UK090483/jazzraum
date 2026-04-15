@@ -9,3 +9,12 @@ content:
         type: string
       - name: body
         type: rich-text
+  - name: concerts
+    label: Konzerte
+    type: collection
+    path: docs/concerts
+    fields:
+      - name: title
+        type: string
+      - name: body
+        type: rich-text
