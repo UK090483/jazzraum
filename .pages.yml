@@ -18,3 +18,9 @@ content:
         type: string
       - name: body
         type: rich-text
+      - name: date
+        type: date
+      - name: location
+        type: string
+      - name: image
+        type: image
