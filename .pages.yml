@@ -9,18 +9,59 @@ content:
         type: string
       - name: body
         type: rich-text
+
   - name: concerts
     label: Konzerte
     type: collection
     path: docs/concerts
+    filename:
+      template: "{year}-{month}-{day}-{title}.md"
+      field: create
+    view:
+      fields: [title, artist, date, venue]
+      primary: title
+      sort: [date, title]
+      default:
+        sort: date
+        order: desc
     fields:
       - name: title
+        label: Titel
         type: string
-      - name: body
-        type: rich-text
+        required: true
+      - name: artist
+        label: Künstler / Band
+        type: string
+        required: true
       - name: date
+        label: Datum
         type: date
-      - name: location
+        required: true
+      - name: time
+        label: Uhrzeit (z.B. 20:00)
+        type: string
+      - name: venue
+        label: Veranstaltungsort
+        type: string
+      - name: genre
+        label: Genre
+        type: string
+      - name: duration
+        label: Dauer (z.B. 2 Stunden)
+        type: string
+      - name: price
+        label: Preis (z.B. 25€)
         type: string
       - name: image
+        label: Bild
         type: image
+      - name: description
+        label: Kurzbeschreibung
+        type: text
+      - name: lineup
+        label: Lineup
+        type: string
+        list: true
+      - name: body
+        label: Ausführliche Beschreibung
+        type: rich-text

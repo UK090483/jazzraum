@@ -1,0 +1,140 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - link "JAzZRaUM Hamburg Underground" [ref=e7] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e8]:
+          - heading "JAzZRaUM" [level=1] [ref=e9]
+          - paragraph [ref=e10]: Hamburg Underground
+      - navigation [ref=e11]:
+        - link "Live" [ref=e12] [cursor=pointer]:
+          - /url: /
+        - link "Archiv" [ref=e13] [cursor=pointer]:
+          - /url: /archiv
+  - main [ref=e14]:
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic:
+          - generic: LIVE
+        - generic [ref=e17]:
+          - generic [ref=e18]: ⚡ April 2026 ⚡
+          - heading "Live Sessions" [level=2] [ref=e19]:
+            - text: Live
+            - text: Sessions
+          - paragraph [ref=e20]: LiEBe JAZzeRAuM FREUnDE, HERZLICH WILLKOMMEN
+      - generic [ref=e21]:
+        - link "Blue Note Sessions Blue Note Sessions The Hamburg Jazz Quartet Sa., 18. Apr. 2026 20:00 Jazzraum Hamburg 25€ Ein Abend voller klassischer Jazz-Standards und improvisierter Meisterwerke. Das Hamburg Jazz Quartet präsentiert ihre einzigartige Interpretation zeitloser Melodien. Details →" [ref=e22] [cursor=pointer]:
+          - /url: /konzert/1
+          - img "Blue Note Sessions" [ref=e25]
+          - generic [ref=e26]:
+            - generic [ref=e27]:
+              - heading "Blue Note Sessions" [level=4] [ref=e28]
+              - paragraph [ref=e29]: The Hamburg Jazz Quartet
+            - generic [ref=e30]:
+              - generic [ref=e31]:
+                - img [ref=e32]
+                - generic [ref=e34]: Sa., 18. Apr. 2026
+              - generic [ref=e35]:
+                - img [ref=e36]
+                - generic [ref=e39]: 20:00
+              - generic [ref=e40]:
+                - img [ref=e41]
+                - generic [ref=e44]: Jazzraum Hamburg
+              - generic [ref=e45]:
+                - img [ref=e46]
+                - generic [ref=e48]: 25€
+            - paragraph [ref=e49]: Ein Abend voller klassischer Jazz-Standards und improvisierter Meisterwerke. Das Hamburg Jazz Quartet präsentiert ihre einzigartige Interpretation zeitloser Melodien.
+            - generic [ref=e50]: Details →
+        - link "Midnight Piano Midnight Piano Sarah Bergmann Trio Mi., 22. Apr. 2026 21:30 Jazzraum Hamburg 28€ Eine intime Piano-Session mit Sarah Bergmann. Erleben Sie virtuose Pianistik gepaart mit emotionaler Tiefe in einer einzigartigen Atmosphäre. Details →" [ref=e51] [cursor=pointer]:
+          - /url: /konzert/2
+          - img "Midnight Piano" [ref=e54]
+          - generic [ref=e55]:
+            - generic [ref=e56]:
+              - heading "Midnight Piano" [level=4] [ref=e57]
+              - paragraph [ref=e58]: Sarah Bergmann Trio
+            - generic [ref=e59]:
+              - generic [ref=e60]:
+                - img [ref=e61]
+                - generic [ref=e63]: Mi., 22. Apr. 2026
+              - generic [ref=e64]:
+                - img [ref=e65]
+                - generic [ref=e68]: 21:30
+              - generic [ref=e69]:
+                - img [ref=e70]
+                - generic [ref=e73]: Jazzraum Hamburg
+              - generic [ref=e74]:
+                - img [ref=e75]
+                - generic [ref=e77]: 28€
+            - paragraph [ref=e78]: Eine intime Piano-Session mit Sarah Bergmann. Erleben Sie virtuose Pianistik gepaart mit emotionaler Tiefe in einer einzigartigen Atmosphäre.
+            - generic [ref=e79]: Details →
+        - link "Brass & Soul Brass & Soul Northern Horns Collective Sa., 25. Apr. 2026 19:30 Jazzraum Hamburg 22€ Kraftvolle Blechbläser-Arrangements treffen auf soulige Rhythmen. Das Northern Horns Collective bringt frischen Wind in den traditionellen Jazz. Details →" [ref=e80] [cursor=pointer]:
+          - /url: /konzert/3
+          - img "Brass & Soul" [ref=e83]
+          - generic [ref=e84]:
+            - generic [ref=e85]:
+              - heading "Brass & Soul" [level=4] [ref=e86]
+              - paragraph [ref=e87]: Northern Horns Collective
+            - generic [ref=e88]:
+              - generic [ref=e89]:
+                - img [ref=e90]
+                - generic [ref=e92]: Sa., 25. Apr. 2026
+              - generic [ref=e93]:
+                - img [ref=e94]
+                - generic [ref=e97]: 19:30
+              - generic [ref=e98]:
+                - img [ref=e99]
+                - generic [ref=e102]: Jazzraum Hamburg
+              - generic [ref=e103]:
+                - img [ref=e104]
+                - generic [ref=e106]: 22€
+            - paragraph [ref=e107]: Kraftvolle Blechbläser-Arrangements treffen auf soulige Rhythmen. Das Northern Horns Collective bringt frischen Wind in den traditionellen Jazz.
+            - generic [ref=e108]: Details →
+        - link "Acoustic Nights Acoustic Nights The Bassline Orchestra Mi., 29. Apr. 2026 20:30 Jazzraum Hamburg 24€ Akustischer Jazz in seiner reinsten Form. Erleben Sie die warmen Klänge des Kontrabass in Kombination mit feinfühligen Begleitinstrumenten. Details →" [ref=e109] [cursor=pointer]:
+          - /url: /konzert/4
+          - img "Acoustic Nights" [ref=e112]
+          - generic [ref=e113]:
+            - generic [ref=e114]:
+              - heading "Acoustic Nights" [level=4] [ref=e115]
+              - paragraph [ref=e116]: The Bassline Orchestra
+            - generic [ref=e117]:
+              - generic [ref=e118]:
+                - img [ref=e119]
+                - generic [ref=e121]: Mi., 29. Apr. 2026
+              - generic [ref=e122]:
+                - img [ref=e123]
+                - generic [ref=e126]: 20:30
+              - generic [ref=e127]:
+                - img [ref=e128]
+                - generic [ref=e131]: Jazzraum Hamburg
+              - generic [ref=e132]:
+                - img [ref=e133]
+                - generic [ref=e135]: 24€
+            - paragraph [ref=e136]: Akustischer Jazz in seiner reinsten Form. Erleben Sie die warmen Klänge des Kontrabass in Kombination mit feinfühligen Begleitinstrumenten.
+            - generic [ref=e137]: Details →
+      - generic [ref=e141]:
+        - heading "Tickets /// Reservierung" [level=3] [ref=e142]
+        - paragraph [ref=e143]: First come, first serve // Limited Capacity
+        - generic [ref=e144]:
+          - link "040 / 123 456 78" [ref=e145] [cursor=pointer]:
+            - /url: tel:040123456789
+          - link "Email" [ref=e146] [cursor=pointer]:
+            - /url: mailto:info@jazzraum-hamburg.de
+  - contentinfo [ref=e147]:
+    - generic [ref=e148]:
+      - generic [ref=e149]:
+        - generic [ref=e150]:
+          - heading "Jazzraum HH" [level=5] [ref=e151]
+          - paragraph [ref=e152]: Underground Jazz // Hamburg
+        - generic [ref=e153]:
+          - heading "Kontakt" [level=5] [ref=e154]
+          - paragraph [ref=e155]:
+            - text: Beispielstraße 123
+            - text: 20095 Hamburg
+            - text: "Tel: 040 / 123 456 78"
+        - generic [ref=e156]:
+          - heading "Zeiten" [level=5] [ref=e157]
+          - paragraph [ref=e158]:
+            - text: "Di - Sa: 19:00 - 01:00"
+            - text: "So: 18:00 - 23:00"
+            - text: "Mo: Geschlossen"
+      - generic [ref=e159]: © 2026 Jazzraum Hamburg

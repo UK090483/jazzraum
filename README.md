@@ -1,32 +1,9 @@
-# Jazzraum
+# Jazz Concert Series Website
 
-## Overview
+This is a code bundle for Jazz Concert Series Website. The original project is available at https://www.figma.com/design/0PpVZz72kPFhoTScPsBG8e/Jazz-Concert-Series-Website.
 
-<!-- Add a brief description of the project here -->
+## Running the code
 
-## Getting Started
+Run `npm i` to install the dependencies.
 
-### Prerequisites
-
-<!-- List any prerequisites, tools, or dependencies required -->
-
-### Installation
-
-```bash
-git clone https://github.com/UK090483/jazzraum.git
-cd jazzraum
-```
-
-<!-- Add setup/installation steps -->
-
-## Usage
-
-<!-- Describe how to use the project -->
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-<!-- Add license information -->
+Run `npm run dev` to start the development server.
