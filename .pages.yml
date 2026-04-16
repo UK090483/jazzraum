@@ -56,7 +56,6 @@ content:
         label: Bild
         type: image
         options:
-          media: images
           path: public/media/concerts
       - name: description
         label: Kurzbeschreibung
