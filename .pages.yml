@@ -71,6 +71,7 @@ content:
         label: Bild
         type: image
         options:
+          media: concertMedia
           path: public/media/concerts
       - name: description
         label: Kurzbeschreibung
