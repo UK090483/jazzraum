@@ -55,6 +55,9 @@ content:
       - name: image
         label: Bild
         type: image
+        options:
+          media: images
+          path: public/images/posts
       - name: description
         label: Kurzbeschreibung
         type: text
