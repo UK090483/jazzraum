@@ -1,37 +1,15 @@
-import { useParams, useNavigate, Link } from "react-router";
-import { ArrowLeft } from "lucide-react";
-import { currentConcerts, pastConcerts } from "../data/concerts";
+import type { Concert } from "@/lib/concerts";
 import { Text } from "./Text";
 import ConcertHero from "./ConcertHero";
 import ConcertBody from "./ConcertBody";
 import ConcertInfo from "./ConcertInfo";
+import BackButton from "./BackButton";
 
-export default function ConcertDetail() {
-  const { concertId } = useParams();
-  const navigate = useNavigate();
+interface ConcertDetailProps {
+  concert: Concert;
+}
 
-  const allConcerts = [...currentConcerts, ...pastConcerts];
-  const concert = allConcerts.find((c) => c.id === concertId);
-
-  if (!concert) {
-    return (
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 text-center">
-        <Text variant="h3" as="h2" className="mb-4">
-          404
-        </Text>
-        <Text variant="body" className="mb-8">
-          Konzert nicht gefunden
-        </Text>
-        <Link
-          to="/"
-          className="text-primary hover:text-primary/80 uppercase font-bold"
-        >
-          ← Zurück
-        </Link>
-      </div>
-    );
-  }
-
+export default function ConcertDetail({ concert }: ConcertDetailProps) {
   const formattedDate = concert.date.toLocaleDateString("de-DE", {
     weekday: "long",
     year: "numeric",
@@ -44,16 +22,7 @@ export default function ConcertDetail() {
   return (
     <div className="min-h-screen bg-background">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
-        <button
-          onClick={() => navigate(-1)}
-          className="flex items-center gap-2 text-primary hover:text-primary/80 transition-colors font-bold uppercase text-sm group"
-        >
-          <ArrowLeft
-            className="size-5 group-hover:-translate-x-1 transition-transform"
-            strokeWidth={3}
-          />
-          Back
-        </button>
+        <BackButton />
       </div>
       <ConcertHero concert={concert} isPast={isPast} />
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">

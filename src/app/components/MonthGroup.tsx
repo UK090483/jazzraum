@@ -1,4 +1,4 @@
-import type { Concert } from "../data/concerts";
+import type { Concert } from "@/lib/concerts";
 import ConcertCard from "./ConcertCard";
 import { Text } from "./Text";
 

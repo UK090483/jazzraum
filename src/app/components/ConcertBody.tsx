@@ -1,4 +1,5 @@
-import type { Concert } from "../data/concerts";
+import type { Concert } from "@/lib/concerts";
+import ReactMarkdown from "react-markdown";
 import { Text } from "./Text";
 
 interface ConcertBodyProps {
@@ -25,9 +26,9 @@ export default function ConcertBody({ concert }: ConcertBodyProps) {
           {concert.description}
         </Text>
         {concert.longDescription && (
-          <Text variant="body" className="leading-relaxed">
-            {concert.longDescription}
-          </Text>
+          <div className="prose-concert text-sm text-primary/70 font-mono leading-relaxed space-y-3">
+            <ReactMarkdown>{concert.longDescription}</ReactMarkdown>
+          </div>
         )}
       </div>
 

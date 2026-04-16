@@ -1,10 +1,10 @@
-import { pastConcerts } from "../data/concerts";
+import { getPastConcerts } from "@/lib/concerts";
 import ArchiveHero from "./ArchiveHero";
 import MonthGroup from "./MonthGroup";
 import { Text } from "./Text";
 
 export default function Archive() {
-  const sortedConcerts = [...pastConcerts].sort(
+  const sortedConcerts = [...getPastConcerts()].sort(
     (a, b) => b.date.getTime() - a.date.getTime(),
   );
 
@@ -26,7 +26,11 @@ export default function Archive() {
       <ArchiveHero />
       <div className="space-y-16">
         {Object.entries(concertsByMonth).map(([monthYear, concerts]) => (
-          <MonthGroup key={monthYear} monthYear={monthYear} concerts={concerts} />
+          <MonthGroup
+            key={monthYear}
+            monthYear={monthYear}
+            concerts={concerts}
+          />
         ))}
       </div>
       <div className="mt-16 bg-background border-2 border-primary/30 p-8 text-center relative overflow-hidden">

@@ -12,13 +12,13 @@ const textVariants = cva("", {
       // Giant decorative background text
       display: "text-primary [font-family:var(--font-family)]",
       // Site logo / top-level title
-      h1: "text-3xl text-primary [font-family:var(--font-family)]",
+      h1: "text-3xl text-primary tracking-wide [font-family:var(--font-family)]",
       // Hero section heading (two-tone: use color prop)
-      h2: "text-6xl md:text-8xl [font-family:var(--font-family)]",
+      h2: "text-6xl md:text-8xl tracking-wide [font-family:var(--font-family)]",
       // Section / CTA heading
-      h3: "text-4xl tracking-tight text-primary [font-family:var(--font-family)]",
+      h3: "text-4xl tracking-wide text-primary [font-family:var(--font-family)]",
       // Card title / sub-section heading
-      h4: "text-2xl tracking-tight text-primary [font-family:var(--font-family)]",
+      h4: "text-2xl tracking-wide text-primary [font-family:var(--font-family)]",
       // Footer column heading / small section title
       h5: "text-lg font-bold text-primary [font-family:var(--font-family)]",
       // Descriptive lead text below headings

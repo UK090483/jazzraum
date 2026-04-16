@@ -1,6 +1,6 @@
 import { Calendar, Clock, MapPin, Euro } from "lucide-react";
-import { Link } from "react-router";
-import type { Concert } from "../data/concerts";
+import Link from "next/link";
+import type { Concert } from "@/lib/concerts";
 import { Text } from "./Text";
 
 interface ConcertCardProps {
@@ -17,7 +17,7 @@ export default function ConcertCard({ concert }: ConcertCardProps) {
 
   return (
     <Link
-      to={`/konzert/${concert.id}`}
+      href={`/konzert/${concert.id}`}
       className="group bg-background border-2 border-primary/30 hover:border-primary transition-all duration-200 relative overflow-hidden block"
     >
       {/* Diagonal stripe effect */}
