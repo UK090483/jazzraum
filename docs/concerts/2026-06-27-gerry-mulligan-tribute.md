@@ -7,7 +7,7 @@ venue: Stage Club
 genre: Free Jazz
 duration: "2 Sets à 60 min"
 price: "25"
-image: https://picsum.photos/seed/jazz75/1200/675
+image: /media/concerts/jazz75.jpg
 description: "Von sanften Balladen bis zu wilden Improvisationen – alles in einer Nacht."
 lineup:
   - Max Neumann — Trompete

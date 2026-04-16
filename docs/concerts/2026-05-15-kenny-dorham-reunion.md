@@ -7,7 +7,7 @@ venue: Elbphilharmonie Kleiner Saal
 genre: Nu Jazz
 duration: "1 Set à 90 min"
 price: "30"
-image: https://picsum.photos/seed/jazz69/1200/675
+image: /media/concerts/jazz69.jpg
 description: "Zwischen Tradition und Moderne – Jazz neu gedacht."
 lineup:
   - Jakob Berger — Saxofon

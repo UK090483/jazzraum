@@ -7,7 +7,7 @@ venue: Markthalle
 genre: Fusion
 duration: "1 Set à 90 min"
 price: "30"
-image: https://picsum.photos/seed/jazz77/1200/675
+image: /media/concerts/jazz77.jpg
 description: "Musikerinnen und Musiker aus ganz Europa treffen auf Hamburger Clubkultur."
 lineup:
   - Clara Vogel — Piano

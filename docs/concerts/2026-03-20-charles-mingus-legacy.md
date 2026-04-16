@@ -7,7 +7,7 @@ venue: Fabrik Hamburg
 genre: Cool Jazz
 duration: "1 Set à 90 min"
 price: "30"
-image: https://picsum.photos/seed/jazz60/1200/675
+image: /media/concerts/jazz60.jpg
 description: "Tauche ein in die Welt des modernen Jazz – unvergessliche Klänge garantiert."
 lineup:
   - Jonas Weber — Gitarre

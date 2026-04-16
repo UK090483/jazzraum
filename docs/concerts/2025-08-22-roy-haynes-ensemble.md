@@ -7,7 +7,7 @@ venue: Fabrik Hamburg
 genre: Avant-Garde
 duration: "2 Sets à 60 min"
 price: "12"
-image: https://picsum.photos/seed/jazz31/1200/675
+image: /media/concerts/jazz31.jpg
 description: "Tauche ein in die Welt des modernen Jazz – unvergessliche Klänge garantiert."
 lineup:
   - Jonas Weber — Gitarre

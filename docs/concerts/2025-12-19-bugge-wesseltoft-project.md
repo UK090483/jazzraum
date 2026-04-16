@@ -7,7 +7,7 @@ venue: Laeiszhalle Kammersaal
 genre: Bebop
 duration: "2 Sets à 45 min"
 price: "18"
-image: https://picsum.photos/seed/jazz48/1200/675
+image: /media/concerts/jazz48.jpg
 description: "Ein Abend, der unter die Haut geht und lange im Gedächtnis bleibt."
 lineup:
   - David Koch — Trompete

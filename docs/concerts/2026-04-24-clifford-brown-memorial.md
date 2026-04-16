@@ -7,7 +7,7 @@ venue: Jazz Dock Hamburg
 genre: Post-Bop
 duration: "3 Sets à 30 min"
 price: "22"
-image: https://picsum.photos/seed/jazz66/1200/675
+image: /media/concerts/jazz66.jpg
 description: "Erlebe Jazz in seiner reinsten Form: authentisch, lebendig, unvergesslich."
 lineup:
   - Jonas Weber — Gitarre

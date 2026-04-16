@@ -7,7 +7,7 @@ venue: Laeiszhalle Kammersaal
 genre: Post-Bop
 duration: "3 Sets à 30 min"
 price: "15"
-image: https://picsum.photos/seed/jazz78/1200/675
+image: /media/concerts/jazz78.jpg
 description: "Ein Abend, der unter die Haut geht und lange im Gedächtnis bleibt."
 lineup:
   - David Koch — Trompete

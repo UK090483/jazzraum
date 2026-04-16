@@ -7,7 +7,7 @@ venue: Unterhaus HH
 genre: Post-Bop
 duration: "3 Sets à 30 min"
 price: "15"
-image: https://picsum.photos/seed/jazz54/1200/675
+image: /media/concerts/jazz54.jpg
 description: "Spontane Kompositionen treffen auf jahrelange Bühnenerfahrung."
 lineup:
   - Jakob Berger — Saxofon

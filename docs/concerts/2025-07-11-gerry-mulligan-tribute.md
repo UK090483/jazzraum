@@ -7,7 +7,7 @@ venue: Stage Club
 genre: Cool Jazz
 duration: "1 Set à 90 min"
 price: "20"
-image: https://picsum.photos/seed/jazz25/1200/675
+image: /media/concerts/jazz25.jpg
 description: "Von sanften Balladen bis zu wilden Improvisationen – alles in einer Nacht."
 lineup:
   - Max Neumann — Trompete

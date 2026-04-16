@@ -7,7 +7,7 @@ venue: Hafenbahnhof
 genre: Latin Jazz
 duration: "2 Sets à 45 min"
 price: "28"
-image: https://picsum.photos/seed/jazz20/1200/675
+image: /media/concerts/jazz20.jpg
 description: "Eine Nacht voller Energie und improvisierter Meisterwerke."
 lineup:
   - Max Neumann — Trompete

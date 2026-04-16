@@ -7,7 +7,7 @@ venue: Laeiszhalle Kammersaal
 genre: Latin Jazz
 duration: "2 Sets à 45 min"
 price: "18"
-image: https://picsum.photos/seed/jazz8/1200/675
+image: /media/concerts/jazz8.jpg
 description: "Ein Abend, der unter die Haut geht und lange im Gedächtnis bleibt."
 lineup:
   - David Koch — Trompete

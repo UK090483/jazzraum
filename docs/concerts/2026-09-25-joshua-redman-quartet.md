@@ -7,7 +7,7 @@ venue: Markthalle
 genre: Free Jazz
 duration: "2 Sets à 60 min"
 price: "12"
-image: https://picsum.photos/seed/jazz87/1200/675
+image: /media/concerts/jazz87.jpg
 description: "Musikerinnen und Musiker aus ganz Europa treffen auf Hamburger Clubkultur."
 lineup:
   - Clara Vogel — Piano

@@ -7,7 +7,7 @@ venue: Stage Club
 genre: Fusion
 duration: "1 Set à 90 min"
 price: "30"
-image: https://picsum.photos/seed/jazz5/1200/675
+image: /media/concerts/jazz5.jpg
 description: "Von sanften Balladen bis zu wilden Improvisationen – alles in einer Nacht."
 lineup:
   - Max Neumann — Trompete

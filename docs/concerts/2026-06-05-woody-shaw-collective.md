@@ -7,7 +7,7 @@ venue: Knust
 genre: Bebop
 duration: "2 Sets à 45 min"
 price: "18"
-image: https://picsum.photos/seed/jazz72/1200/675
+image: /media/concerts/jazz72.jpg
 description: "Zwei Sets voller Leidenschaft, Groove und musikalischer Entdeckungen."
 lineup:
   - Clara Vogel — Piano

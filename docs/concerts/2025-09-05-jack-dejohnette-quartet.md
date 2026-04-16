@@ -7,7 +7,7 @@ venue: Mojo Club
 genre: Nu Jazz
 duration: "1 Set à 90 min"
 price: "20"
-image: https://picsum.photos/seed/jazz33/1200/675
+image: /media/concerts/jazz33.jpg
 description: "Die Bühne gehört den Besten – ein Abend für echte Jazz-Liebhaber."
 lineup:
   - David Koch — Trompete

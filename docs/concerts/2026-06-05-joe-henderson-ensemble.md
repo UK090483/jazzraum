@@ -7,7 +7,7 @@ venue: Fabrik Hamburg
 genre: Straight-Ahead Jazz
 duration: "2 Sets à 60 min"
 price: "12"
-image: https://picsum.photos/seed/jazz71/1200/675
+image: /media/concerts/jazz71.jpg
 description: "Tauche ein in die Welt des modernen Jazz – unvergessliche Klänge garantiert."
 lineup:
   - Jonas Weber — Gitarre

@@ -7,7 +7,7 @@ venue: Jazz Dock Hamburg
 genre: Latin Jazz
 duration: "2 Sets à 45 min"
 price: "18"
-image: https://picsum.photos/seed/jazz56/1200/675
+image: /media/concerts/jazz56.jpg
 description: "Erlebe Jazz in seiner reinsten Form: authentisch, lebendig, unvergesslich."
 lineup:
   - Jonas Weber — Gitarre

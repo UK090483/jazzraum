@@ -7,7 +7,7 @@ venue: Knust
 genre: Latin Jazz
 duration: "2 Sets à 45 min"
 price: "18"
-image: https://picsum.photos/seed/jazz32/1200/675
+image: /media/concerts/jazz32.jpg
 description: "Zwei Sets voller Leidenschaft, Groove und musikalischer Entdeckungen."
 lineup:
   - Clara Vogel — Piano

@@ -7,7 +7,7 @@ venue: Jazz Dock Hamburg
 genre: Hard Bop
 duration: "3 Sets à 30 min"
 price: "15"
-image: https://picsum.photos/seed/jazz86/1200/675
+image: /media/concerts/jazz86.jpg
 description: "Erlebe Jazz in seiner reinsten Form: authentisch, lebendig, unvergesslich."
 lineup:
   - Jonas Weber — Gitarre

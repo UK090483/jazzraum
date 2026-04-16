@@ -7,7 +7,7 @@ venue: Elbphilharmonie Kleiner Saal
 genre: Cool Jazz
 duration: "1 Set à 90 min"
 price: "20"
-image: https://picsum.photos/seed/jazz49/1200/675
+image: /media/concerts/jazz49.jpg
 description: "Zwischen Tradition und Moderne – Jazz neu gedacht."
 lineup:
   - Jakob Berger — Saxofon

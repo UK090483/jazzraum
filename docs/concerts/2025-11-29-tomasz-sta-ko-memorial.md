@@ -7,7 +7,7 @@ venue: Stage Club
 genre: Nu Jazz
 duration: "1 Set à 90 min"
 price: "30"
-image: https://picsum.photos/seed/jazz45/1200/675
+image: /media/concerts/jazz45.jpg
 description: "Von sanften Balladen bis zu wilden Improvisationen – alles in einer Nacht."
 lineup:
   - Max Neumann — Trompete

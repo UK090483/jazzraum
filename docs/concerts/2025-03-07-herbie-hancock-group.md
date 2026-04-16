@@ -7,7 +7,7 @@ venue: Markthalle
 genre: Avant-Garde
 duration: "2 Sets à 60 min"
 price: "12"
-image: https://picsum.photos/seed/jazz7/1200/675
+image: /media/concerts/jazz7.jpg
 description: "Musikerinnen und Musiker aus ganz Europa treffen auf Hamburger Clubkultur."
 lineup:
   - Clara Vogel — Piano

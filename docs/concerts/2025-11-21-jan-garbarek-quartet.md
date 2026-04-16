@@ -7,7 +7,7 @@ venue: Unterhaus HH
 genre: Latin Jazz
 duration: "2 Sets à 45 min"
 price: "28"
-image: https://picsum.photos/seed/jazz44/1200/675
+image: /media/concerts/jazz44.jpg
 description: "Spontane Kompositionen treffen auf jahrelange Bühnenerfahrung."
 lineup:
   - Jakob Berger — Saxofon

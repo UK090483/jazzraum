@@ -7,7 +7,7 @@ venue: Hafenbahnhof
 genre: Contemporary Jazz
 duration: "3 Sets à 30 min"
 price: "15"
-image: https://picsum.photos/seed/jazz70/1200/675
+image: /media/concerts/jazz70.jpg
 description: "Eine Nacht voller Energie und improvisierter Meisterwerke."
 lineup:
   - Max Neumann — Trompete
