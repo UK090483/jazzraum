@@ -1,8 +1,8 @@
 media:
   - name: images
     label: Images
-    input: media/images
-    output: /media/images
+    input: media
+    output: /media
     rename: safe
     extensions: [png, jpg, webp]
     actions:
@@ -72,7 +72,6 @@ content:
         type: image
         options:
           media: concertMedia
-          path: public/media/concerts
       - name: description
         label: Kurzbeschreibung
         type: text
