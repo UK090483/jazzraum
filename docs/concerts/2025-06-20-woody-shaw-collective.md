@@ -7,7 +7,7 @@ venue: Knust
 genre: Contemporary Jazz
 duration: "3 Sets à 30 min"
 price: "15"
-image: /media/concerts/jazz22.jpg
+image: jazz22.jpg
 description: "Zwei Sets voller Leidenschaft, Groove und musikalischer Entdeckungen."
 lineup:
   - Clara Vogel — Piano

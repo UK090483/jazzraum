@@ -7,7 +7,7 @@ venue: Mojo Club
 genre: Free Jazz
 duration: "2 Sets à 60 min"
 price: "12"
-image: /media/concerts/jazz63.jpg
+image: jazz63.jpg
 description: "Die Bühne gehört den Besten – ein Abend für echte Jazz-Liebhaber."
 lineup:
   - David Koch — Trompete

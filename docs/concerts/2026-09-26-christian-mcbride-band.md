@@ -7,7 +7,7 @@ venue: Laeiszhalle Kammersaal
 genre: Modal Jazz
 duration: "2 Sets à 45 min"
 price: "18"
-image: /media/concerts/jazz88.jpg
+image: jazz88.jpg
 description: "Ein Abend, der unter die Haut geht und lange im Gedächtnis bleibt."
 lineup:
   - David Koch — Trompete

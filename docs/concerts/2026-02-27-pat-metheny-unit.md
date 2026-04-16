@@ -7,7 +7,7 @@ venue: Laeiszhalle Kammersaal
 genre: Contemporary Jazz
 duration: "3 Sets à 30 min"
 price: "22"
-image: /media/concerts/jazz58.jpg
+image: jazz58.jpg
 description: "Ein Abend, der unter die Haut geht und lange im Gedächtnis bleibt."
 lineup:
   - David Koch — Trompete

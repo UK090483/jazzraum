@@ -7,7 +7,7 @@ venue: Elbphilharmonie Kleiner Saal
 genre: Fusion
 duration: "1 Set à 90 min"
 price: "30"
-image: /media/concerts/jazz29.jpg
+image: jazz29.jpg
 description: "Zwischen Tradition und Moderne – Jazz neu gedacht."
 lineup:
   - Jakob Berger — Saxofon

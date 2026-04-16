@@ -7,7 +7,7 @@ venue: Markthalle
 genre: Straight-Ahead Jazz
 duration: "2 Sets à 60 min"
 price: "12"
-image: /media/concerts/jazz47.jpg
+image: jazz47.jpg
 description: "Musikerinnen und Musiker aus ganz Europa treffen auf Hamburger Clubkultur."
 lineup:
   - Clara Vogel — Piano

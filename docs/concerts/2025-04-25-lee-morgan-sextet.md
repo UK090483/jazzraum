@@ -7,7 +7,7 @@ venue: Unterhaus HH
 genre: Hard Bop
 duration: "3 Sets à 30 min"
 price: "15"
-image: /media/concerts/jazz14.jpg
+image: jazz14.jpg
 description: "Spontane Kompositionen treffen auf jahrelange Bühnenerfahrung."
 lineup:
   - Jakob Berger — Saxofon

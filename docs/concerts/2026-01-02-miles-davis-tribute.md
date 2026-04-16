@@ -7,7 +7,7 @@ venue: Hafenbahnhof
 genre: Hard Bop
 duration: "3 Sets à 30 min"
 price: "22"
-image: /media/concerts/jazz50.jpg
+image: jazz50.jpg
 description: "Eine Nacht voller Energie und improvisierter Meisterwerke."
 lineup:
   - Max Neumann — Trompete

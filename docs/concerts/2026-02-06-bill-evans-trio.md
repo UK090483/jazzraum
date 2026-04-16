@@ -7,7 +7,7 @@ venue: Stage Club
 genre: Avant-Garde
 duration: "2 Sets à 60 min"
 price: "12"
-image: /media/concerts/jazz55.jpg
+image: jazz55.jpg
 description: "Von sanften Balladen bis zu wilden Improvisationen – alles in einer Nacht."
 lineup:
   - Max Neumann — Trompete

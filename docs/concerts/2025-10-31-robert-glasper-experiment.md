@@ -7,7 +7,7 @@ venue: Fabrik Hamburg
 genre: Fusion
 duration: "1 Set à 90 min"
 price: "20"
-image: /media/concerts/jazz41.jpg
+image: jazz41.jpg
 description: "Tauche ein in die Welt des modernen Jazz – unvergessliche Klänge garantiert."
 lineup:
   - Jonas Weber — Gitarre

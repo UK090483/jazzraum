@@ -7,7 +7,7 @@ venue: Fabrik Hamburg
 genre: Nu Jazz
 duration: "1 Set à 90 min"
 price: "20"
-image: /media/concerts/jazz81.jpg
+image: jazz81.jpg
 description: "Tauche ein in die Welt des modernen Jazz – unvergessliche Klänge garantiert."
 lineup:
   - Jonas Weber — Gitarre

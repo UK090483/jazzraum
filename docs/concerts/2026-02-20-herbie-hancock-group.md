@@ -7,7 +7,7 @@ venue: Markthalle
 genre: Nu Jazz
 duration: "1 Set à 90 min"
 price: "20"
-image: /media/concerts/jazz57.jpg
+image: jazz57.jpg
 description: "Musikerinnen und Musiker aus ganz Europa treffen auf Hamburger Clubkultur."
 lineup:
   - Clara Vogel — Piano

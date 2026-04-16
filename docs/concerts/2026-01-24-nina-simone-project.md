@@ -7,7 +7,7 @@ venue: Mojo Club
 genre: Fusion
 duration: "1 Set à 90 min"
 price: "30"
-image: /media/concerts/jazz53.jpg
+image: jazz53.jpg
 description: "Die Bühne gehört den Besten – ein Abend für echte Jazz-Liebhaber."
 lineup:
   - David Koch — Trompete

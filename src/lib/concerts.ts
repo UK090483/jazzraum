@@ -38,7 +38,7 @@ export function getAllConcerts(): Concert[] {
         time: String(data.time ?? ""),
         venue: String(data.venue ?? ""),
         description: String(data.description ?? ""),
-        image: String(data.image ?? ""),
+        image: `/media/concerts/${String(data.image ?? "")}`,
         price: String(data.price ?? ""),
         lineup: Array.isArray(data.lineup)
           ? data.lineup.map(String)

@@ -7,7 +7,7 @@ venue: Jazz Dock Hamburg
 genre: Contemporary Jazz
 duration: "3 Sets à 30 min"
 price: "15"
-image: /media/concerts/jazz46.jpg
+image: jazz46.jpg
 description: "Erlebe Jazz in seiner reinsten Form: authentisch, lebendig, unvergesslich."
 lineup:
   - Jonas Weber — Gitarre

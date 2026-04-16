@@ -7,7 +7,7 @@ venue: Hafenbahnhof
 genre: Modal Jazz
 duration: "2 Sets à 45 min"
 price: "18"
-image: /media/concerts/jazz40.jpg
+image: jazz40.jpg
 description: "Eine Nacht voller Energie und improvisierter Meisterwerke."
 lineup:
   - Max Neumann — Trompete

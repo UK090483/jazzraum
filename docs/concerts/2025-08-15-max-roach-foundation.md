@@ -7,7 +7,7 @@ venue: Hafenbahnhof
 genre: Post-Bop
 duration: "3 Sets à 30 min"
 price: "15"
-image: /media/concerts/jazz30.jpg
+image: jazz30.jpg
 description: "Eine Nacht voller Energie und improvisierter Meisterwerke."
 lineup:
   - Max Neumann — Trompete

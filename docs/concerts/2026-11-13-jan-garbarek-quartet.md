@@ -7,7 +7,7 @@ venue: Unterhaus HH
 genre: Contemporary Jazz
 duration: "3 Sets à 30 min"
 price: "15"
-image: /media/concerts/jazz94.jpg
+image: jazz94.jpg
 description: "Spontane Kompositionen treffen auf jahrelange Bühnenerfahrung."
 lineup:
   - Jakob Berger — Saxofon

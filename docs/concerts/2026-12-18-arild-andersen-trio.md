@@ -7,7 +7,7 @@ venue: Elbphilharmonie Kleiner Saal
 genre: Free Jazz
 duration: "2 Sets à 60 min"
 price: "25"
-image: /media/concerts/jazz99.jpg
+image: jazz99.jpg
 description: "Zwischen Tradition und Moderne – Jazz neu gedacht."
 lineup:
   - Jakob Berger — Saxofon

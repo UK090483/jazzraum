@@ -7,7 +7,7 @@ venue: Unterhaus HH
 genre: Contemporary Jazz
 duration: "3 Sets à 30 min"
 price: "22"
-image: /media/concerts/jazz34.jpg
+image: jazz34.jpg
 description: "Spontane Kompositionen treffen auf jahrelange Bühnenerfahrung."
 lineup:
   - Jakob Berger — Saxofon

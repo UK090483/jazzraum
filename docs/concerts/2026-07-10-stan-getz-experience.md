@@ -7,7 +7,7 @@ venue: Jazz Dock Hamburg
 genre: Modal Jazz
 duration: "2 Sets à 45 min"
 price: "28"
-image: /media/concerts/jazz76.jpg
+image: jazz76.jpg
 description: "Erlebe Jazz in seiner reinsten Form: authentisch, lebendig, unvergesslich."
 lineup:
   - Jonas Weber — Gitarre

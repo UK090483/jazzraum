@@ -7,7 +7,7 @@ venue: Unterhaus HH
 genre: Modal Jazz
 duration: "2 Sets à 45 min"
 price: "18"
-image: /media/concerts/jazz64.jpg
+image: jazz64.jpg
 description: "Spontane Kompositionen treffen auf jahrelange Bühnenerfahrung."
 lineup:
   - Jakob Berger — Saxofon

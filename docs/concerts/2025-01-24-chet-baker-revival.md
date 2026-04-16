@@ -7,7 +7,7 @@ venue: Fabrik Hamburg
 genre: Cool Jazz
 duration: "1 Set à 90 min"
 price: "20"
-image: /media/concerts/jazz1.jpg
+image: jazz1.jpg
 description: "Tauche ein in die Welt des modernen Jazz – unvergessliche Klänge garantiert."
 lineup:
   - Jonas Weber — Gitarre

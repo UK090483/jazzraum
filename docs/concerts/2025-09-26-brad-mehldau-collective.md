@@ -7,7 +7,7 @@ venue: Jazz Dock Hamburg
 genre: Bebop
 duration: "2 Sets à 45 min"
 price: "28"
-image: /media/concerts/jazz36.jpg
+image: jazz36.jpg
 description: "Erlebe Jazz in seiner reinsten Form: authentisch, lebendig, unvergesslich."
 lineup:
   - Jonas Weber — Gitarre

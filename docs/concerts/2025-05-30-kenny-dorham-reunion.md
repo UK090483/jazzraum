@@ -7,7 +7,7 @@ venue: Elbphilharmonie Kleiner Saal
 genre: Avant-Garde
 duration: "2 Sets à 60 min"
 price: "25"
-image: /media/concerts/jazz19.jpg
+image: jazz19.jpg
 description: "Zwischen Tradition und Moderne – Jazz neu gedacht."
 lineup:
   - Jakob Berger — Saxofon

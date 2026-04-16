@@ -7,7 +7,7 @@ venue: Fabrik Hamburg
 genre: Free Jazz
 duration: "2 Sets à 60 min"
 price: "25"
-image: /media/concerts/jazz51.jpg
+image: jazz51.jpg
 description: "Tauche ein in die Welt des modernen Jazz – unvergessliche Klänge garantiert."
 lineup:
   - Jonas Weber — Gitarre

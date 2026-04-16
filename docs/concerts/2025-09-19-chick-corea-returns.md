@@ -7,7 +7,7 @@ venue: Stage Club
 genre: Straight-Ahead Jazz
 duration: "2 Sets à 60 min"
 price: "25"
-image: /media/concerts/jazz35.jpg
+image: jazz35.jpg
 description: "Von sanften Balladen bis zu wilden Improvisationen – alles in einer Nacht."
 lineup:
   - Max Neumann — Trompete

@@ -7,7 +7,7 @@ venue: Unterhaus HH
 genre: Bebop
 duration: "2 Sets à 45 min"
 price: "28"
-image: /media/concerts/jazz84.jpg
+image: jazz84.jpg
 description: "Spontane Kompositionen treffen auf jahrelange Bühnenerfahrung."
 lineup:
   - Jakob Berger — Saxofon

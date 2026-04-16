@@ -7,7 +7,7 @@ venue: Knust
 genre: Hard Bop
 duration: "3 Sets à 30 min"
 price: "15"
-image: /media/concerts/jazz62.jpg
+image: jazz62.jpg
 description: "Zwei Sets voller Leidenschaft, Groove und musikalischer Entdeckungen."
 lineup:
   - Clara Vogel — Piano

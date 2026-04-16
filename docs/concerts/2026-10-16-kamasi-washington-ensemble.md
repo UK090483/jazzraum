@@ -7,7 +7,7 @@ venue: Hafenbahnhof
 genre: Post-Bop
 duration: "3 Sets à 30 min"
 price: "22"
-image: /media/concerts/jazz90.jpg
+image: jazz90.jpg
 description: "Eine Nacht voller Energie und improvisierter Meisterwerke."
 lineup:
   - Max Neumann — Trompete
