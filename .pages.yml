@@ -1,4 +1,19 @@
-media: media
+media:
+  - name: images
+    label: Images
+    input: media/images
+    output: /media/images
+    rename: safe
+    extensions: [png, jpg, webp]
+    actions:
+      - name: optimize-images
+        label: Optimize images
+        workflow: pages-cms-media-action.yml
+  - name: concertMedia
+    label: Concert Media
+    input: public/media/concerts
+    output: public/media/concerts
+
 content:
   - name: pages
     label: Pages
