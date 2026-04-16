@@ -57,7 +57,7 @@ content:
         type: image
         options:
           media: images
-          path: public/images/posts
+          path: public/media/concerts
       - name: description
         label: Kurzbeschreibung
         type: text
