@@ -39,13 +39,13 @@ export default function ConcertHero({ concert, isPast }: ConcertHeroProps) {
           >
             {concert.genre || "Jazz"}
           </Text>
-          <Text variant="h2" as="h1" className="mb-4">
+          <Text variant="h2" as="h1" className="mb-4 text-background">
             {concert.title}
           </Text>
           <Text
             variant="h3"
             as="p"
-            className="text-3xl md:text-4xl text-primary mb-2"
+            className="text-3xl md:text-4xl  mb-2 text-background"
           >
             {concert.artist}
           </Text>

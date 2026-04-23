@@ -42,6 +42,19 @@ export default function SiteHeader() {
                 Archiv
               </Text>
             </Link>
+            <Link href="/ueber-uns" className="transition-all">
+              <Text
+                variant="nav"
+                as="span"
+                className={
+                  pathname === "/ueber-uns"
+                    ? "text-primary border-b-2 border-primary"
+                    : "text-primary/60 hover:text-primary border-b-2 border-transparent hover:border-primary"
+                }
+              >
+                Über uns
+              </Text>
+            </Link>
           </nav>
         </div>
       </div>

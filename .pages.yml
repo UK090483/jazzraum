@@ -15,6 +15,25 @@ media:
     output: public/media/concerts
 
 content:
+  - name: about
+    label: Über uns
+    type: file
+    path: docs/about.md
+    fields:
+      - name: title
+        label: Titel
+        type: string
+        required: true
+      - name: subtitle
+        label: Untertitel
+        type: string
+      - name: mission
+        label: Mission (Kurztext)
+        type: text
+      - name: body
+        label: Inhalt
+        type: rich-text
+
   - name: pages
     label: Pages
     type: collection

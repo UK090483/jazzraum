@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import SiteHeader from "./components/SiteHeader";
 import SiteFooter from "./components/SiteFooter";
+import JazzMode from "./components/JazzMode";
 
 export const metadata: Metadata = {
   title: "Jazzraum HH",
@@ -19,6 +20,7 @@ export default function RootLayout({
         <SiteHeader />
         <main>{children}</main>
         <SiteFooter />
+        <JazzMode />
       </body>
     </html>
   );
