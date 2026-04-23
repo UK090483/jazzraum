@@ -20,6 +20,27 @@ export interface Concert {
 
 const CONCERTS_DIR = path.join(process.cwd(), "docs/concerts");
 
+const repoName = "jazzraum";
+const basePath = process.env.GITHUB_ACTIONS === "true" ? `/${repoName}` : "";
+
+function withBasePath(urlPath: string): string {
+  if (!basePath) return urlPath;
+  return `${basePath}${urlPath}`;
+}
+
+function normalizeImagePath(rawImage: string): string {
+  if (!rawImage) return "/media/images.jpeg";
+  if (/^https?:\/\//.test(rawImage)) return rawImage;
+
+  const trimmed = rawImage.replace(/^\/+/, "").replace(/^public\//, "");
+
+  if (trimmed.startsWith("media/")) {
+    return `/${trimmed}`;
+  }
+
+  return `/media/concerts/${trimmed}`;
+}
+
 export function getAllConcerts(): Concert[] {
   if (!fs.existsSync(CONCERTS_DIR)) return [];
 
@@ -38,7 +59,7 @@ export function getAllConcerts(): Concert[] {
         time: String(data.time ?? ""),
         venue: String(data.venue ?? ""),
         description: String(data.description ?? ""),
-        image: `/media/concerts/${String(data.image ?? "")}`,
+        image: withBasePath(normalizeImagePath(String(data.image ?? ""))),
         price: String(data.price ?? ""),
         lineup: Array.isArray(data.lineup)
           ? data.lineup.map(String)
