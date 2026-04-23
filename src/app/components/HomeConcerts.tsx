@@ -1,17 +1,21 @@
-import Link from "next/link";
+"use client";
+
+import { useState } from "react";
 import type { Concert } from "@/lib/concerts";
 import MonthGroup from "./MonthGroup";
 import { Text } from "./Text";
 
 interface HomeConcertsProps {
   monthEntries: [string, Concert[]][];
-  visibleCount: number;
+  initialVisibleCount: number;
 }
 
 export default function HomeConcerts({
   monthEntries,
-  visibleCount,
+  initialVisibleCount,
 }: HomeConcertsProps) {
+  const [visibleCount, setVisibleCount] = useState(initialVisibleCount);
+
   const nextMonthName =
     visibleCount < monthEntries.length ? monthEntries[visibleCount][0] : null;
 
@@ -28,24 +32,28 @@ export default function HomeConcerts({
       </div>
       {nextMonthName && (
         <div className="mt-12 flex justify-center gap-4">
-          <Link
-            href={`?months=${visibleCount + 1}`}
-            scroll={false}
+          <button
+            type="button"
+            onClick={() =>
+              setVisibleCount((count) =>
+                Math.min(count + 1, monthEntries.length),
+              )
+            }
             className="inline-block border-2 border-primary px-8 py-3 font-mono tracking-wider uppercase hover:bg-primary hover:text-primary-foreground transition-colors"
           >
             <Text variant="label" as="span">
               Load {nextMonthName}
             </Text>
-          </Link>
-          <Link
-            href={`?months=${monthEntries.length}`}
-            scroll={false}
+          </button>
+          <button
+            type="button"
+            onClick={() => setVisibleCount(monthEntries.length)}
             className="inline-block border-2 border-primary/40 px-8 py-3 font-mono tracking-wider uppercase hover:bg-primary hover:text-primary-foreground hover:border-primary transition-colors"
           >
             <Text variant="label" as="span">
               Show All
             </Text>
-          </Link>
+          </button>
         </div>
       )}
     </>
