@@ -1,3 +1,4 @@
+import Image from "next/image";
 import type { Concert } from "@/lib/concerts";
 import { Text } from "./Text";
 
@@ -9,9 +10,11 @@ interface ConcertHeroProps {
 export default function ConcertHero({ concert, isPast }: ConcertHeroProps) {
   return (
     <div className="relative h-[60vh] overflow-hidden border-y-4 border-primary">
-      <img
+      <Image
         src={concert.image}
         alt={concert.title}
+        fill
+        sizes="100vw"
         className="w-full h-full object-cover brightness-50"
       />
       <div className="absolute inset-0 bg-gradient-to-t from-black via-black/50 to-transparent" />

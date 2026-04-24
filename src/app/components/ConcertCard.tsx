@@ -1,4 +1,5 @@
 import { Calendar, Clock, MapPin, Euro } from "lucide-react";
+import Image from "next/image";
 import Link from "next/link";
 import type { Concert } from "@/lib/concerts";
 import { Text } from "./Text";
@@ -23,10 +24,12 @@ export default function ConcertCard({ concert }: ConcertCardProps) {
       {/* Diagonal stripe effect */}
       <div className="absolute top-0 right-0 w-32 h-32 bg-primary/5 rotate-45 translate-x-16 -translate-y-16 group-hover:bg-primary/10 transition-all"></div>
 
-      <div className="aspect-[16/9] overflow-hidden border-b-2 border-primary/30 group-hover:border-primary transition-colors">
-        <img
+      <div className="relative aspect-[16/9] overflow-hidden border-b-2 border-primary/30 group-hover:border-primary transition-colors">
+        <Image
           src={concert.image}
           alt={concert.title}
+          fill
+          sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"
           className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500 brightness-75 group-hover:brightness-100"
         />
       </div>
